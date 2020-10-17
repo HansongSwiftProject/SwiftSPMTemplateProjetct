@@ -1,2 +1,2 @@
 # SwiftSPMTemplateProjetct
-一个用Swift 的SPM管理的综合项目
+Swift模版项目用Swift  Package Mananger 
